@@ -40,12 +40,12 @@ Dette er en ".txt" fil som jeg har fået at vide at jeg skal prøve at redigere 
 
 88        88   888888888  888888888  8888888888
  88      88    88         88             88
-  88    88     88         88             88
-   88  88      8888       8888           88
-    8888       88         88             88
-     88        88         88             88
-     88        88         88             88
-     88        88         88             88
+  88    8fddfd8     88         88             88
+   88  88fdfd      8888 fdfdsfd      8888           88
+   fdf 8888       88         8fdfdf8             88 dell
+  dfdf Yeet dfdsfdsfdfdfd
+     88     fdfd   88         88   fdffdf          88
+    fddf 88        fdfdfdf88           fdf  88
      88        88         88             88
      88        888888888  888888888      88
 
